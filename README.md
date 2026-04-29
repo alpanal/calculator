@@ -99,4 +99,4 @@ Open-source under MIT License.
 
 ## 👩‍💻 Author
 
-Developed by **Kaju**
+Developed by **alpana**
